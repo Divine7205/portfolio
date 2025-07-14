@@ -1,4 +1,3 @@
-import React from "react";
 import { FaLinkedin, FaEnvelope, FaPhone } from "react-icons/fa";
 
 const App = () => {
